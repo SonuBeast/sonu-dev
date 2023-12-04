@@ -241,7 +241,7 @@ body {
 }
 
 .header.nav-active {
-  height: 335px;
+  height: 350px;
   transition-duration: 0.35s;
 }
 
@@ -824,6 +824,7 @@ textarea.contact-input {
   }
   .navbar-list li {
     text-align: center;
+    padding:5px 0;
 }
 
   .navbar .btn {
