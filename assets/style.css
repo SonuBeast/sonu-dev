@@ -284,7 +284,7 @@ body {
 .navbar-link {
   color: var(--white);
   font-family: var(--ff-barlow);
-  padding-block: 3px;
+  padding-block: 8px;
   transition: var(--transition-1);
 }
 
@@ -824,7 +824,6 @@ textarea.contact-input {
   }
   .navbar-list li {
     text-align: center;
-    padding:5px 0;
 }
 
   .navbar .btn {
