@@ -1058,4 +1058,11 @@ textarea.contact-input {
 
 .navbar-list li {
   text-align: center;
+
+}
+
+@media (max-width: 992px) {
+  .navbar-list li:last-child{
+    margin-top:10px;
+  }
 }
